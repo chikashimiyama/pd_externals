@@ -1,0 +1,11 @@
+#N canvas 234 46 214 387 10;
+#X obj 54 -90 chirikov~;
+#X obj 55 -64 cycle~;
+#X obj 56 -38 duffing~;
+#X obj 57 -12 dyadic~;
+#X obj 57 12 tent~;
+#X obj 58 37 henon~;
+#X obj 58 64 ikeda~;
+#X obj 59 88 logistic~;
+#X obj 59 113 tent~;
+#X obj 57 137 tinkerbell~;
