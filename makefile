@@ -67,7 +67,7 @@ LINUXINCLUDE =  -I../../src
 
 # ----------------------- Mac OSX -----------------------
 
-pd_darwin: accum~.pd_darwin bigger~.pd_darwin smaller~.pd_darwin equal~.pd_darwin crand~.pd_darwin logistic~.pd_darwin henon~.pd_darwin duffing~.pd_darwin tent~.pd_darwin ikeda~.pd_darwin dyadic~.pd_darwin tinkerbell~.pd_darwin chirikov~.pd_darwin cycle~.pd_darwin greater~.pd_darwin
+pd_darwin: accum~.pd_darwin bigger~.pd_darwin smaller~.pd_darwin equal~.pd_darwin crand~.pd_darwin logistic~.pd_darwin henon~.pd_darwin duffing~.pd_darwin tent~.pd_darwin ikeda~.pd_darwin dyadic~.pd_darwin tinkerbell~.pd_darwin chirikov~.pd_darwin cycle~.pd_darwin greater~.pd_darwin decay~.pd_darwin
 
 .SUFFIXES: .pd_darwin
 
